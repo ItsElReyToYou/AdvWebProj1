@@ -80,3 +80,13 @@ h3 {
     width: 100%;
 }
 }
+
+@media (min-width:701px) and (max-width:1000px){
+.col-1, .col-2, .col-3 {
+    display: block;
+    width: 100%;
+}
+.col-1 img, .col-2 img, .col-3 img {
+    width: 100%;
+}
+}
